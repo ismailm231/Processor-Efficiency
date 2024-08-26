@@ -1,13 +1,6 @@
 ### Job Processing Simulation
 
-This C++ project simulates a job processing system using object-oriented programming (OOP) principles. It generates 10,000 jobs with different priorities and processes them through a series of queues and processors. The simulation aims to determine the most efficient configuration for processing jobs.
-
-#### Features:
-
-- **Job Generation**: 10,000 jobs are created with varying priorities.
-- **Queues and Processors**: Jobs are organized into queues and processed by a configurable number of processors (1 to 8).
-- **Efficiency Testing**: The simulation tests different configurations of processors to determine the most efficient setup.
-- **Metrics Calculation**: Metrics such as average queue times and number of completed jobs are calculated and logged to a `log.txt` file for further analysis.
+This C++ project simulates a job processing system using object-oriented programming (OOP) principles. It generates jobs with different priorities and processes them through a series of queues and processors. The simulation aims to analyze the performance of the system.
 
 #### How to Run:
 
